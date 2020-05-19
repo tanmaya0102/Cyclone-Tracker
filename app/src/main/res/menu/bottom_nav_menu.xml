@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/weather"
+        android:icon="@drawable/ic_rainy"
+        android:title="Weather"/>
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_location"
+        android:title="Cyclone Shelter"/>
+
+
+
+</menu>
